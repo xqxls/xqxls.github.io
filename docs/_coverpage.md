@@ -7,5 +7,5 @@
 - 本仓库以基于 docsify 构建的所见即所得博客。
      
 
-[GitHub](<https://github.com/xqxls/fuzhengwei.github.io>)
+[GitHub](<https://github.com/xqxls/xqxls.github.io>)
 [开始阅读](README.md)
