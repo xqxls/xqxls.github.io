@@ -5,6 +5,9 @@
 
        - 第2节：LeetCode 热题 HOT 100
        
+       - [第3节：LeetCode 周赛](/md/idea-plugin/algorithm/周赛.md)
+       
+       
    - 第2章：设计模式
        - [1.单例模式](/md/idea-plugin/designpatterns/1.单例模式.md)
        - [2.工场模式](/md/idea-plugin/designpatterns/2.工场模式.md)
