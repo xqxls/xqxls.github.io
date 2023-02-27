@@ -2,11 +2,8 @@
 - :memo: 目录
    - 第1章：数据结构和算法
        - [第1节：剑指offer](/md/idea-plugin/algorithm/剑指offer.md)
-
        - 第2节：LeetCode 热题 HOT 100
-       
        - [第3节：LeetCode 周赛](/md/idea-plugin/algorithm/周赛.md)
-       
        
    - 第2章：设计模式
        - [1.单例模式](/md/idea-plugin/designpatterns/1.单例模式.md)
