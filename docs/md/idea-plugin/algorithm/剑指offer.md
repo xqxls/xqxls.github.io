@@ -52,3 +52,6 @@
 - [53-I：在排序数组中查找数字](/md/idea-plugin/53-I：在排序数组中查找数字.md)
 - [53-II：0～n-1中缺失的数字](/md/idea-plugin/53-II：0～n-1中缺失的数字.md)
 - [54：二叉搜索树的第k大节点](/md/idea-plugin/54：二叉搜索树的第k大节点.md)
+- [55-I：二叉树的深度](/md/idea-plugin/55-I：二叉树的深度.md)
+- [55-II：平衡二叉树](/md/idea-plugin/55-II：平衡二叉树.md)
+- [56-II：数组中数字出现的次数](/md/idea-plugin/56-II：数组中数字出现的次数.md)
