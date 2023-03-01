@@ -55,3 +55,6 @@
 - [55-I：二叉树的深度](/md/idea-plugin/55-I：二叉树的深度.md)
 - [55-II：平衡二叉树](/md/idea-plugin/55-II：平衡二叉树.md)
 - [56-II：数组中数字出现的次数](/md/idea-plugin/56-II：数组中数字出现的次数.md)
+- [57-I：和为s的数字](/md/idea-plugin/57-I：和为s的数字.md)
+- [57-II：和为s的连续正数序列](/md/idea-plugin/57-II：和为s的连续正数序列.md)
+- [58-I：翻转单词顺序](/md/idea-plugin/58-I：翻转单词顺序.md)
