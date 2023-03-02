@@ -58,3 +58,6 @@
 - [57-I：和为s的数字](/md/idea-plugin/57-I：和为s的数字.md)
 - [57-II：和为s的连续正数序列](/md/idea-plugin/57-II：和为s的连续正数序列.md)
 - [58-I：翻转单词顺序](/md/idea-plugin/58-I：翻转单词顺序.md)
+- [58-II：左旋转字符串](/md/idea-plugin/58-II：左旋转字符串.md)
+- [59-I：滑动窗口的最大值](/md/idea-plugin/59-I：滑动窗口的最大值.md)
+- [60：n个骰子的点数](/md/idea-plugin/560：n个骰子的点数.md)
