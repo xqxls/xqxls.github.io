@@ -60,4 +60,7 @@
 - [58-I：翻转单词顺序](/md/idea-plugin/58-I：翻转单词顺序.md)
 - [58-II：左旋转字符串](/md/idea-plugin/58-II：左旋转字符串.md)
 - [59-I：滑动窗口的最大值](/md/idea-plugin/59-I：滑动窗口的最大值.md)
-- [60：n个骰子的点数](/md/idea-plugin/560：n个骰子的点数.md)
+- [60：n个骰子的点数](/md/idea-plugin/60：n个骰子的点数.md)
+- [61：扑克牌中的顺子](/md/idea-plugin/61：扑克牌中的顺子.md)
+- [62：圆圈中最后剩下的数字](/md/idea-plugin/62：圆圈中最后剩下的数字.md)
+- [63：股票的最大利润](/md/idea-plugin/63：股票的最大利润.md)
