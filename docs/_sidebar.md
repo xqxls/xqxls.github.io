@@ -2,7 +2,7 @@
 - :memo: 目录
    - 第1章：数据结构和算法
        - [第1节：剑指offer](/md/idea-plugin/algorithm/剑指offer.md)
-       - 第2节：LeetCode 热题 HOT 100
+       -  第2节：LeetCode 热题 HOT 100
        - [第3节：LeetCode 周赛](/md/idea-plugin/algorithm/周赛.md)
        
    - 第2章：设计模式
@@ -22,5 +22,8 @@
        
    - 第5章：深度学习
        - [1.深度学习环境安装](/md/idea-plugin/deep-learning/1.深度学习环境安装.md)
+      
+   - 第6章：项目
+       -  1.秒杀项目（https://github.com/xqxls/seckill）
 
        
