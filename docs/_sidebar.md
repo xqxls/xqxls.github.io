@@ -24,6 +24,7 @@
        - [1.深度学习环境安装](/md/idea-plugin/deep-learning/1.深度学习环境安装.md)
       
    - 第6章：项目
-       -  1.秒杀项目（https://github.com/xqxls/seckill）
+       - [1.秒杀项目](/md/idea-plugin/project/1.秒杀项目.md)
+  
 
        
