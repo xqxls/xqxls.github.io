@@ -22,6 +22,7 @@
        
    - 第5章：深度学习
        - [1.深度学习环境安装](/md/idea-plugin/deep-learning/1.深度学习环境安装.md)
+       - [2.深度学习项目](/md/idea-plugin/deep-learning/2.深度学习项目.md)
       
    - 第6章：项目
        - [1.秒杀项目](/md/idea-plugin/project/1.秒杀项目.md)
