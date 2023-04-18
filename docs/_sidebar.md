@@ -11,7 +11,6 @@
        - [3.抽象工厂模式](/md/idea-plugin/designpatterns/3.抽象工厂模式.md)
        - [4.建造者模式](/md/idea-plugin/designpatterns/4.建造者模式.md)
        
-       
    - 第3章：多线程
        - [1.两个线程交替打印奇偶数](/md/idea-plugin/multithread/1.两个线程交替打印奇偶数.md)
        - [2.生产者消费者问题](/md/idea-plugin/multithread/2.生产者消费者问题.md)
@@ -22,8 +21,8 @@
        
    - 第5章：深度学习
        - [1.深度学习环境安装](/md/idea-plugin/deep-learning/1.深度学习环境安装.md)
-       - [2.深度学习项目](/md/idea-plugin/deep-learning/2.深度学习项目.md)
-      
+       - [2.深度学习项目](/md/idea-plugin/deep-learning/2.深度学习项目.md)    
+        
    - 第6章：项目
        - [1.秒杀项目](/md/idea-plugin/project/1.秒杀项目.md)
   
