@@ -1,5 +1,4 @@
 - [:octocat: 首页](/README)
-- :memo: 目录
 
    - 第1章：数据结构和算法
        - [第1节：剑指offer](/md/idea-plugin/algorithm/剑指offer.md)
