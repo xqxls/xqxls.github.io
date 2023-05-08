@@ -17,7 +17,8 @@
        - [1.两个线程交替打印奇偶数](/md/idea-plugin/multithread/1.两个线程交替打印奇偶数.md)
        - [2.生产者消费者问题](/md/idea-plugin/multithread/2.生产者消费者问题.md)
        - [3.容器并发控制](/md/idea-plugin/multithread/3.容器并发控制.md)
-       
+       - [4.多线程批量操作数据库](/md/idea-plugin/multithread/4.多线程批量操作数据库.md)
+        
    - 第4章：问题记录
        - [1.解决java非法字符问题](/md/idea-plugin/question/1.解决java非法字符问题.md)
        
