@@ -30,6 +30,7 @@
    - 第6章：项目
        - [1.秒杀项目](/md/idea-plugin/project/1.秒杀项目.md)
        - [2.权限系统](/md/idea-plugin/project/2.权限系统.md)
+       - [3.微服务权限系统](/md/idea-plugin/project/3.微服务权限系统.md)
   
 
        
