@@ -12,6 +12,8 @@
        - [4.建造者模式](/md/idea-plugin/designpatterns/4.建造者模式.md)
        - [5.原型模式](/md/idea-plugin/designpatterns/5.原型模式.md)
        - [6.门面模式](/md/idea-plugin/designpatterns/6.门面模式.md)
+       - [7.适配器模式](/md/idea-plugin/designpatterns/7.适配器模式.md)
+       - [8.桥接模式](/md/idea-plugin/designpatterns/8.桥接模式.md)
        
    - 第3章：多线程
        - [1.两个线程交替打印奇偶数](/md/idea-plugin/multithread/1.两个线程交替打印奇偶数.md)
