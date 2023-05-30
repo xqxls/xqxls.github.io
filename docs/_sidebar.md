@@ -19,13 +19,22 @@
    - 第4章：问题记录
        - [1.解决java非法字符问题](/md/idea-plugin/question/1.解决java非法字符问题.md)
        
-   - 第5章：深度学习
+   - 第5章：通用技术解决方案
+       - [1.接口优化](/md/idea-plugin/solution/1.接口优化.md)
+       - [2.限流设计](/md/idea-plugin/solution/2.限流设计.md)
+       - [3.幂等设计](/md/idea-plugin/solution/3.幂等设计.md)
+       - [4.分库分表设计](/md/idea-plugin/solution/4.分库分表设计.md)
+       - [5.深分页问题解决](/md/idea-plugin/solution/5.深分页问题解决.md)
+       - [6.分布式锁设计](/md/idea-plugin/solution/6.分布式锁设计.md)
+       - [7.分布式事务设计](/md/idea-plugin/solution/7.分布式事务设计.md)
+       
+   - 第6章：深度学习
        - [1.深度学习环境安装](/md/idea-plugin/deep-learning/1.深度学习环境安装.md)
        - [2.深度学习基础](/md/idea-plugin/deep-learning/2.深度学习基础.md)    
        - [3.卷积神经网络](/md/idea-plugin/deep-learning/3.卷积神经网络.md)  
        - [4.循环神经网络](/md/idea-plugin/deep-learning/4.循环神经网络.md) 
        
-   - 第6章：项目
+   - 第7章：项目
        - [1.秒杀项目](/md/idea-plugin/project/1.秒杀项目.md)
        - [2.权限系统](/md/idea-plugin/project/2.权限系统.md)
        - [3.微服务权限系统](/md/idea-plugin/project/3.微服务权限系统.md)
