@@ -21,7 +21,7 @@
        
    - 第5章：通用技术解决方案
        - [1.接口优化](/md/idea-plugin/solution/1.接口优化.md)
-       - [2.限流设计](/md/idea-plugin/solution/2.限流设计.md)
+       - [2.限流设计](/md/idea-plugin/solution/limiter/2.限流设计.md)
        - [3.幂等设计](/md/idea-plugin/solution/3.幂等设计.md)
        - [4.分库分表设计](/md/idea-plugin/solution/4.分库分表设计.md)
        - [5.深分页问题解决](/md/idea-plugin/solution/5.深分页问题解决.md)
