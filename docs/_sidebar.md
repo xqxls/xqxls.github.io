@@ -25,7 +25,7 @@
        - [3.幂等设计](/md/idea-plugin/solution/idempotent-design/3.幂等设计.md)
        - [4.分库分表设计](/md/idea-plugin/solution/sub-database-and-sub-table-design/4.分库分表设计.md)
        - [5.深分页问题解决](/md/idea-plugin/solution/5.深分页问题解决.md)
-       - [6.分布式锁设计](/md/idea-plugin/solution/6.分布式锁设计.md)
+       - [6.分布式锁设计](/md/idea-plugin/solution/distribute-lock-design/6.分布式锁设计.md)
        - [7.分布式事务设计](/md/idea-plugin/solution/7.分布式事务设计.md)
        
    - 第6章：深度学习
