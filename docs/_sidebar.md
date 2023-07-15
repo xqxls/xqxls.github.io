@@ -28,13 +28,16 @@
        - [6.分布式锁设计](/md/idea-plugin/solution/distribute-lock-design/6.分布式锁设计.md)
        - [7.分布式事务设计](/md/idea-plugin/solution/7.分布式事务设计.md)
        
-   - 第6章：深度学习
+   - 第6章：框架源码学习
+       - [1.Spring框架](/md/idea-plugin/source-code/Spring框架.md)
+       
+   - 第7章：深度学习
        - [1.深度学习环境安装](/md/idea-plugin/deep-learning/1.深度学习环境安装.md)
        - [2.深度学习基础](/md/idea-plugin/deep-learning/2.深度学习基础.md)    
        - [3.卷积神经网络](/md/idea-plugin/deep-learning/3.卷积神经网络.md)  
        - [4.循环神经网络](/md/idea-plugin/deep-learning/4.循环神经网络.md) 
        
-   - 第7章：项目
+   - 第8章：项目
        - [1.秒杀项目](/md/idea-plugin/project/1.秒杀项目.md)
        - [2.权限系统](/md/idea-plugin/project/2.权限系统.md)
        - [3.微服务权限系统](/md/idea-plugin/project/3.微服务权限系统.md)
