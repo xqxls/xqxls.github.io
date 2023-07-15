@@ -12,9 +12,9 @@
 
 #### 3.类图
 
-![image-20230710174429135](/Users/huzhuo/Documents/笔记/Spring-IOC 第四章.assets/image-20230710174429135.png)
+![image-20230710174429135](Spring-IOC 第四章.assets/image-20230710174429135.png)
 
 #### 4.时序图
 
-![image-20230710174621893](/Users/huzhuo/Documents/笔记/Spring-IOC 第四章.assets/image-20230710174621893.png)
+![image-20230710174621893](Spring-IOC 第四章.assets/image-20230710174621893.png)
 

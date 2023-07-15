@@ -35,9 +35,9 @@
 
 #### 3.类图
 
-![spring应用上下文](/Users/huzhuo/Documents/笔记/Spring-IOC 第六章.assets/spring应用上下文.png)
+![spring应用上下文](Spring-IOC 第六章.assets/spring应用上下文.png)
 
 #### 4.时序图
 
-![应用上下文时序图](/Users/huzhuo/Documents/笔记/Spring-IOC 第六章.assets/应用上下文时序图.png)
+![应用上下文时序图](Spring-IOC 第六章.assets/应用上下文时序图.png)
 

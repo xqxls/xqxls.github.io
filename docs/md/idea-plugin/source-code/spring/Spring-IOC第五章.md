@@ -15,9 +15,9 @@
 
 #### 3.类图
 
-![image-20230712151242168](/Users/huzhuo/Documents/笔记/Spring-IOC 第五章.assets/image-20230712151242168.png)
+![image-20230712151242168](Spring-IOC 第五章.assets/image-20230712151242168.png)
 
 #### 4.时序图
 
-![ApiTest_test_xml](/Users/huzhuo/Documents/笔记/Spring-IOC 第五章.assets/ApiTest_test_xml.png)
+![ApiTest_test_xml](Spring-IOC 第五章.assets/ApiTest_test_xml.png)
 

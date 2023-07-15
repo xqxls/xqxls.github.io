@@ -13,7 +13,7 @@
 
 #### 3.类图
 
-![image-20230703114523680](/Users/huzhuo/Documents/笔记/Spring-IOC 第二章.assets/image-20230703114523680.png)
+![image-20230715235034748](Spring-IOC第二章.assets/image-20230715235034748.png)
 
 #### 4.实现
 

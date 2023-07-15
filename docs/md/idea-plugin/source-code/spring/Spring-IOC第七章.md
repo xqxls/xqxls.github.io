@@ -17,9 +17,9 @@
 
 #### 3.类图
 
-![初始化和销毁方法](/Users/huzhuo/Documents/笔记/Spring-IOC 第七章.assets/初始化和销毁方法.png)
+![初始化和销毁方法](Spring-IOC 第七章.assets/初始化和销毁方法.png)
 
 #### 4.时序图
 
-![ApiTest_test_xml](/Users/huzhuo/Documents/笔记/Spring-IOC 第七章.assets/ApiTest_test_xml.png)
+![ApiTest_test_xml](Spring-IOC 第七章.assets/ApiTest_test_xml.png)
 
