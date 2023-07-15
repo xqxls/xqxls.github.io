@@ -15,10 +15,10 @@
 
 #### 3.类图
 
-![对象作用域](Spring-IOC 第九章.assets/对象作用域.png)
+![对象作用域](Spring-IOC第九章.assets/对象作用域.png)
 
 
 
 #### 4.时序图
 
-![ApiTest_test_prototype](Spring-IOC 第九章.assets/ApiTest_test_prototype.png)
+![ApiTest_test_prototype](Spring-IOC第九章.assets/ApiTest_test_prototype.png)

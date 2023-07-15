@@ -2,7 +2,7 @@
 
 #### 1.需求目标
 
-- 注入BeanDefiniton信息的时候，需要手动操作Bean对象的定义、注册和属性填充，可以将这部分操作通过配置文件的方式完成。
+- 注入BeanDefinition信息的时候，需要手动操作Bean对象的定义、注册和属性填充，可以将这部分操作通过配置文件的方式完成。
 - 支持多种方式加载资源。
 
 #### 2.设计
@@ -15,9 +15,9 @@
 
 #### 3.类图
 
-![image-20230712151242168](Spring-IOC 第五章.assets/image-20230712151242168.png)
+![image-20230712151242168](Spring-IOC第五章.assets/image-20230712151242168.png)
 
 #### 4.时序图
 
-![ApiTest_test_xml](Spring-IOC 第五章.assets/ApiTest_test_xml.png)
+![ApiTest_test_xml](Spring-IOC第五章.assets/ApiTest_test_xml.png)
 

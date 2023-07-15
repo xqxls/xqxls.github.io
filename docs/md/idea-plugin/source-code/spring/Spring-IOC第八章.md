@@ -17,9 +17,9 @@
 
 #### 3.Bean生命周期
 
-![image-20230713153916544](Spring-IOC 第八章.assets/image-20230713153916544.png)
+![image-20230713153916544](Spring-IOC第八章.assets/image-20230713153916544.png)
 
 #### 4.类图
 
-![感知容器](Spring-IOC 第八章.assets/感知容器.png)
+![感知容器](Spring-IOC第八章.assets/感知容器.png)
 
