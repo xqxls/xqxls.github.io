@@ -43,14 +43,14 @@
        - [3.微服务权限系统](/md/idea-plugin/project/3.微服务权限系统.md)
        
    - 第9章：基础知识
-          - [1.Java基础](/md/idea-plugin/basic-knowledge/1.Java基础.md)
-          - [2.多线程](/md/idea-plugin/basic-knowledge/2.多线程.md)
-          - [3.JVM虚拟机](/md/idea-plugin/basic-knowledge/3.JVM虚拟机.md)
-          - [4.Java集合](/md/idea-plugin/basic-knowledge/4.Java集合.md)
-          - [5.Redis](/md/idea-plugin/basic-knowledge/5.Redis.md)
-          - [6.Mysql](/md/idea-plugin/basic-knowledge/6.Mysql.md)
-          - [7.消息队列](/md/idea-plugin/basic-knowledge/7.消息队列.md)
-          - [8.DDD领域驱动](/md/idea-plugin/basic-knowledge/8.DDD领域驱动.md)
+       - [1.Java基础](/md/idea-plugin/basic-knowledge/1.Java基础.md)
+       - [2.多线程](/md/idea-plugin/basic-knowledge/2.多线程.md)
+       - [3.JVM虚拟机](/md/idea-plugin/basic-knowledge/3.JVM虚拟机.md)
+       - [4.Java集合](/md/idea-plugin/basic-knowledge/4.Java集合.md)
+       - [5.Redis](/md/idea-plugin/basic-knowledge/5.Redis.md)
+       - [6.Mysql](/md/idea-plugin/basic-knowledge/6.Mysql.md)
+       - [7.消息队列](/md/idea-plugin/basic-knowledge/7.消息队列.md)
+       - [8.DDD领域驱动](/md/idea-plugin/basic-knowledge/8.DDD领域驱动.md)
   
 
        
