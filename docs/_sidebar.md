@@ -26,7 +26,7 @@
        - [4.分库分表设计](/md/idea-plugin/solution/sub-database-and-sub-table-design/4.分库分表设计.md)
        - [5.深分页问题解决](/md/idea-plugin/solution/5.深分页问题解决.md)
        - [6.分布式锁设计](/md/idea-plugin/solution/distribute-lock-design/6.分布式锁设计.md)
-       - [7.分布式事务设计](/md/idea-plugin/solution/7.分布式事务设计.md)
+       - [7.分布式事务设计](/md/idea-plugin/solution/distribute-transaction-design/7.分布式事务设计.md)
        
    - 第6章：框架源码学习
        - [1.Spring框架](/md/idea-plugin/source-code/Spring框架.md)
