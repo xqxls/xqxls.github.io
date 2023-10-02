@@ -24,7 +24,7 @@
        - [2.限流设计](/md/idea-plugin/solution/limiter-design/2.限流设计.md)
        - [3.幂等设计](/md/idea-plugin/solution/idempotent-design/3.幂等设计.md)
        - [4.分库分表设计](/md/idea-plugin/solution/sub-database-and-sub-table-design/4.分库分表设计.md)
-       - [5.深分页问题解决](/md/idea-plugin/solution/5.深分页问题解决.md)
+       - [5.深分页问题解决](/md/idea-plugin/solution/deep-paging/5.深分页问题解决.md)
        - [6.分布式锁设计](/md/idea-plugin/solution/distribute-lock-design/6.分布式锁设计.md)
        - [7.分布式事务设计](/md/idea-plugin/solution/distribute-transaction-design/7.分布式事务设计.md)
        
