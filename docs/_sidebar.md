@@ -52,6 +52,10 @@
        - [6.Mysql](/md/idea-plugin/basic-knowledge/6.Mysql.md)
        - [7.消息队列](/md/idea-plugin/basic-knowledge/7.消息队列.md)
        - [8.DDD领域驱动](/md/idea-plugin/basic-knowledge/8.DDD领域驱动.md)
+    
+   - 第10章：测试
+       - [1.性能测试](/md/idea-plugin/test/1.性能测试.md)
+    
   
 
        
