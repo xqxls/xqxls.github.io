@@ -54,8 +54,8 @@
        - [8.DDD领域驱动](/md/idea-plugin/basic-knowledge/8.DDD领域驱动.md)
        - [9.计算机网络](/md/idea-plugin/basic-knowledge/9.计算机网络.md)
     
-  - 第10章：测试
-      - [1.性能测试](/md/idea-plugin/test/1.性能测试.md)
+   - 第10章：测试
+       - [1.性能测试](/md/idea-plugin/test/1.性能测试.md)
     
   
 
