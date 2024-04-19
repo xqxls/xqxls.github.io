@@ -41,6 +41,7 @@
     - [2.权限系统](/md/idea-plugin/project/2.权限系统.md)
     - [3.微服务权限系统](/md/idea-plugin/project/3.微服务权限系统.md)
     - [4.商城项目](/md/idea-plugin/project/4.shopping-mall商城项目.md)
+    - [5.网关项目](/md/idea-plugin/project/5.网关项目.md)
 
 - 第9章：基础知识
     - [1.Java基础](/md/idea-plugin/basic-knowledge/1.Java基础.md)
